@@ -1,6 +1,7 @@
 # Month 1: Foundation Building and Subject Familiarization
 
 Week 1-2: General Intelligence & Reasoning
+
 Days 1-2: Understand basic concepts and solve practice questions.
 Days 3-4: Focus on advanced topics (syllogism, statement-assumption, etc.).
 Days 5-7: Take a mock test.
